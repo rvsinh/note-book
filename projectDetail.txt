@@ -1,0 +1,55 @@
+Project Name : Notebook
+
+Role : Admin 
+Description :   Track website activity
+		Control user activity
+		Block user
+		Backup notebook(Daily or weekly basis)
+
+Role : Users
+Description : Create Notes on topic Basis, Save notes on public folder or private folder
+		Public folder notes seen by all user, user can make chage in public notes,
+		 add new features or content.
+		Private folder is password protected so only the created user going to see that
+		 content, but private can be share and move it to from private to public.
+		Public folder's notes only be move to private folder till no other user add any
+		 content to that folder, if anything add or remove from that public file than
+		  its can't be go anywhere.
+
+Application user :
+		 Backend : Django
+			   Postgresql
+		Frontend : Not decided yet,
+Either going to be used any framework for the frontend so we can make django 
+	application to the resapi.
+So we can add this backend to either anytype of data, even that people easily
+	use our api and directly save thier notes to  thier folder.
+
+Chalenges :
+		create a notebook type of notebook.
+		try to handle it from database prospect also.
+		Use django power to learn fast and optimised type of website.
+		Follow the coding style.
+		Make the readable so anyone can understand the logic behind 
+		the quotes.
+		Not yet decide which front end going to learn and try to complete this 
+		project.
+
+Benifit of Frontend and backend : we not going to change frontend or backend 
+on behalf of current scenario. Its totally decouple so made any changes its
+not effect to anyone of them.
+
+Do this project as professional aspect.
+use git as much as we can do.
+personal dairy, personal notebook before this 15 feb.
+After this project i am going to accept to that test taking project.  
+
+
+Template :
+		login.html
+		signup.html
+		Home.html
+
+		All these html going to written in reactJs.
+
+Backend going to handle through the django.
